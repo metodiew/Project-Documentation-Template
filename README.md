@@ -1,8 +1,18 @@
+A few random notes and ideas here.
+The project can be structured as one long page with all details or each heading/section can be a separate file. In that case, we need common assets directory with all images placed in one place.
+
+We are going to have a common setup detail which is going to be the same for all projects. Only project-specific detail should be listed here.
+
+We are going to have a common project update details which are going to be the same for all projects. Only project-specific detail should be listed here.
+
+After this line, we can see the example project structure.
+--------------
+
 # [Project Name] Documentation
 [project URL]
 A short description of the project. A few paragraphs if needed.
 
-# Table of Contents
+# Table of Contents (this is going to be updated once we have the structure)
 - [Overview](#url)
 - [Project Name Setup Details](#url)
     - [Step 01](#url)
