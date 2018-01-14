@@ -122,6 +122,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - Metaboxes?
 - 3rd party integrations
 
+# Steps for Specific Project things
+We can list steps required for adding a new ad.
+
+We can list steps required for adding/remove/edit a partner.
+
 
 # Release notes
 ## Version 01 (release date)
